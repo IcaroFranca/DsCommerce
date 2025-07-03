@@ -74,5 +74,4 @@ public class Order {
 	public void setClient(User client) {
 		this.client = client;
 	}
-	
 }
